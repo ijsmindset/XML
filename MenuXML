@@ -1,0 +1,29 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<!-- Menu del bar con primer plato segundo plato y postre -->
+
+<menuprincipal>
+    <menu plato ="primer plato">
+        <plato>
+            <titulo>Primer plato</titulo>
+            <opcion1>Croquetas de jamon</opcion1>
+            <opcion2>Ensalda<opcion2>
+            <elaboracion>Caseras</elaboracion>
+        </plato>
+    </menu>
+    <menu plato ="segundo plato">
+        <plato>
+            <titulo>Segundo plato</titulo>
+            <opcion1>Arroz con bogabante</opcion1>
+            <opcion2>Fabada asturiana</opcion2>
+            <elaboracion>Casero</elaboracion>
+        </plato>
+    </menu>
+    <menu plato ="postre">
+        <plato>
+            <titulo>Postre</titulo>
+            <opcion1>Brownie con helado</opcion1>
+            <opcion2>Cafe</opcion2>
+            <elaboracion>Casero</elaboracion>
+        </plato>
+    </menu>
+    
