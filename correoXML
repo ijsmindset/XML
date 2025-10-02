@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding=UFT-8>?>
+<mensaje>   
+    <remitente>
+        <nombre>Pepito de los palotes</nombre>
+        <email>pepito@gmailcom</email >
+    </remitente>
+    <destinatario>
+        <nombre>Jaun jilberto</nombre>
+        <email>JJilberto@gmailcom</email >
+    </destinatario>
+    <asunto>Proyecto informatico</asunto>
+        <contenido>
+            <parrafo>Buenos dias </parrafo>
+            <parrafo>Me gustaria concretar una cita para reunirnos y hablar sobre el Proyecto informatico</parrafo>
+            <parrafo>un saludo</parrafo>
+        </contenido>
+        <adjunto>Proyecto.pdf</adjunto>
+        <firma> ATT: Pepito de los palotes</firma>
+        
